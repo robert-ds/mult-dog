@@ -4,15 +4,31 @@
 }
 
 body{
+  color: rgb(252, 246, 246);
   background-color: rgba(115, 124, 252, 0.3);
+  background-image: url(house-dog.webp);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 h1{
   text-align: center;
 }
 
+.wrapper{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wrapper #btn{
+  padding: 20px;
+  background-color: rgb(48, 185, 48);
+
+}
+
 img{
-  margin-left: 500px;
   margin-top: 20px;
   width: 400px;
   height: 400px;
