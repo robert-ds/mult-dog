@@ -1,6 +1,7 @@
-# Ejemplo de App que consume una API-REST de Perros.
-## Es Consumida usando Javascript.
+# Ejemplo de App que consume una API-REST de Perros
 
-Pequeña App que muestra diferentes perros al precionar el boton.
+## La API es consumida usando Javascript
 
-<img src="img-readme.png" alt="example-site" />
+<img src="mobile.png" alt="example-site" data-align="center" />
+
+<img src="desktop.png" alt="example-site" data-align="center" />
